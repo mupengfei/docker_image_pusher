@@ -5,7 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-myscale/myscaledb:1.8.0
 matrixorigin/matrixone:2.1.1
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3

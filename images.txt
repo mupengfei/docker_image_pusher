@@ -5,8 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-busybox:latest
-vastdata/vastbase-vector
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
 containers.intersystems.com/intersystems/iris-community:2025.3
